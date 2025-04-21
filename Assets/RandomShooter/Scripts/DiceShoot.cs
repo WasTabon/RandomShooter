@@ -4,6 +4,9 @@ namespace RandomShooter.Scripts
 {
     public class DiceShoot : MonoBehaviour
     {
+        public AudioSource _audioSource;
+        public AudioClip _audioClipShot;
+        public AudioClip _audioClipExplode;
         public Transform cameraTransform;
         public DiceAnimationController diceAnimationController;
         public UIController uiController;
@@ -24,6 +27,7 @@ namespace RandomShooter.Scripts
         {
             if (_rigidbody != null)
             {
+                _audioSource.PlayOneShot(_audioClipShot);
                 uiController.dicesCount++;
                 _oldPosition = gameObject.transform.localPosition;
                 _rigidbody.isKinematic = false;
@@ -37,6 +41,7 @@ namespace RandomShooter.Scripts
 
         public void ResetState()
         {
+            _audioSource.PlayOneShot(_audioClipExplode);
             gameObject.transform.localPosition = _oldPosition;
             _rigidbody.isKinematic = true;
             diceAnimationController.SetRotating(true);

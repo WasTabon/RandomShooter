@@ -4,5 +4,32 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Levels.unity
+    guid: e36c43c09f95eaf408f2a67af9052287
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main.unity
+    guid: ac3f9efc9358a5c4ebffaa7309b357a8
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 1.unity
+    guid: e4206de90cf7f6e4f8e72934c0c4437e
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 2.unity
+    guid: 5c5e7338cfd2aa248903a44a37d0a206
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 3.unity
+    guid: f27004525e04780438f45d32ec0311da
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 4.unity
+    guid: 9cb5be6f21cc15c42920648f02dd59a1
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 5.unity
+    guid: f459bf44a99507042937e3bd2b7d5356
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 6.unity
+    guid: 2137b81c10d2d9b4e9e0f24d047766a8
+  - enabled: 1
+    path: Assets/RandomShooter/Scenes/Main 7.unity
+    guid: 2ab1dbdfeca01b649b39ae2a04bd402e
   m_configObjects: {}

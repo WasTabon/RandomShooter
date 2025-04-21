@@ -122,72 +122,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1001 &5574564
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.570845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.9759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (14)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &12021577 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1173446207}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &17285097
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -243,67 +177,6 @@ PrefabInstance:
     - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
       propertyPath: m_Name
       value: PokerChip_Black (27)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &34079777
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.075901
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (10)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -702,20 +575,10 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &59434564 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 960082859}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &77580402 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1171181627}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &83737967 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 738295148}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &85667865 stripped
 Transform:
@@ -1006,67 +869,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce265a7411f2a7f40b606576e81c0804, type: 3}
---- !u!1001 &119378023
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.4159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (20)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &126142739
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1568,67 +1370,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 999843377}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &172400201
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 13.810843
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 24.7059
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (29)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &172641293 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -1762,67 +1503,6 @@ PrefabInstance:
     - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
       propertyPath: m_Name
       value: PokerChip_Black (13)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &189557260
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.4159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (7)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2388,133 +2068,11 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1774869927}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &262563953
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 21.0159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (8)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &266203809 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 316090609}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &268454425
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.6359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (11)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &269699667
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2698,133 +2256,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &277803022
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.075901
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (25)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &281293289 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1070766330}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &282619261
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.7759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (6)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &285721534 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -3030,67 +2466,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &323177216
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.190844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 26.0459
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (33)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &325669521
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3164,77 +2539,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08ee8a2ffea05764ca8eba670d1a7d18, type: 3}
---- !u!1001 &333009114
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.3259
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &333125305 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1296913653}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &337431279 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1156228449}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &347775536
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3357,11 +2661,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &382508916 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 282619261}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &393677792
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3683,16 +2982,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 08ee8a2ffea05764ca8eba670d1a7d18, type: 3}
---- !u!4 &454077085 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1988458748}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &457331195 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 268454425}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &466555796
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3979,11 +3268,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3cce5519d770f1247873704811c16cf0, type: 3}
---- !u!4 &517926250 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 788773238}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &527418253
 GameObject:
   m_ObjectHideFlags: 0
@@ -4438,67 +3722,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1393017341}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &570823244
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.570845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.1459
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (12)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &588038408 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -4638,11 +3861,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a2af22dcd444be749abd9b4ec9e03b8e, type: 3}
---- !u!4 &624252465 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 954600104}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &626125305
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5215,67 +4433,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b2213dbd7f01e2b4d977c73685dea38e, type: 3}
---- !u!1001 &715448111
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.050844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 21.5359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (9)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1 &726588196
 GameObject:
   m_ObjectHideFlags: 0
@@ -5607,67 +4764,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 738018300}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1001 &738295148
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.7759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (23)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1 &767483116
 GameObject:
   m_ObjectHideFlags: 0
@@ -5793,67 +4889,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1001 &788773238
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.490845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.7259
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &797321175 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -5951,67 +4986,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: 0, z: 0}
---- !u!1001 &809169596
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.190844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 25.5259
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (30)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &810999750 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -6086,11 +5060,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cb69e30e92834a47be306d401fe1355, type: 3}
---- !u!4 &826749532 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1327145182}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &832395047 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -6230,133 +5199,11 @@ Transform:
   - {fileID: 285721534}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &862559607
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 13.760844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 23.2759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (26)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &876168312 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 129663803}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &882157008
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.490845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 21.6859
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &888439445 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -6435,11 +5282,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 374dab7bf8d35714d995d7ae3744728b, type: 3}
---- !u!4 &907768774 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 172400201}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &918356596
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6501,11 +5343,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &925578795 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 882157008}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &929015060
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -6603,260 +5440,16 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1940691251}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &947935874
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.6359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (22)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &954600104
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 21.5359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (21)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &959369905 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1025474631}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &960082859
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.450844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 24.7059
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (18)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &963150688 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1848698740}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &967357680
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 13.760844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 23.6159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (28)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &979733122
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -7367,63 +5960,6 @@ PrefabInstance:
     - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
       propertyPath: m_Name
       value: PokerChip_Black (10)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &1051206499
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.490845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.2929
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8193,67 +6729,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5806c697d916571498bbd20131e6433a, type: 3}
---- !u!1001 &1156228449
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.400845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 24.1359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (17)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &1166535784
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8327,11 +6802,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6b2d1d33fdbf1a340a25ad352c47f593, type: 3}
---- !u!4 &1169672899 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 189557260}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1171181627
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -8391,67 +6861,6 @@ PrefabInstance:
     - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
       propertyPath: m_Name
       value: PokerChip_Black (21)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &1173446207
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.400845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 23.6159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (16)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8519,11 +6928,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1175418283 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 277803022}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1188570218
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9172,72 +7576,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1283083772 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 333009114}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1296913653
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 21.0159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (24)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &1304015541
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9299,11 +7637,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1305636784 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 809169596}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1309268967
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9359,137 +7692,6 @@ PrefabInstance:
     - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
       propertyPath: m_Name
       value: PokerChip_Black (17)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1314454116 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 262563953}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &1322983380
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1322983381}
-  m_Layer: 0
-  m_Name: Chips (2)
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1322983381
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1322983380}
-  serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.07, y: -2.49, z: 43.27}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 1538950504}
-  - {fileID: 517926250}
-  - {fileID: 454077085}
-  - {fileID: 1972503656}
-  - {fileID: 925578795}
-  - {fileID: 1283083772}
-  - {fileID: 1702459717}
-  - {fileID: 382508916}
-  - {fileID: 83737967}
-  - {fileID: 1169672899}
-  - {fileID: 2092341294}
-  - {fileID: 1314454116}
-  - {fileID: 333125305}
-  - {fileID: 1882963952}
-  - {fileID: 624252465}
-  - {fileID: 1641128648}
-  - {fileID: 1175418283}
-  - {fileID: 457331195}
-  - {fileID: 1445385506}
-  - {fileID: 1517058166}
-  - {fileID: 1378770390}
-  - {fileID: 1987670449}
-  - {fileID: 826749532}
-  - {fileID: 2146430976}
-  - {fileID: 1657218732}
-  - {fileID: 12021577}
-  - {fileID: 1509512471}
-  - {fileID: 1305636784}
-  - {fileID: 337431279}
-  - {fileID: 1593754406}
-  - {fileID: 2137106620}
-  - {fileID: 59434564}
-  - {fileID: 907768774}
-  - {fileID: 1347975689}
-  m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &1327145182
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 10.400845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 23.2759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (15)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9634,11 +7836,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 01fc8a3d82cf1434d91799b1ef57df76, type: 3}
---- !u!4 &1347975689 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 2068988689}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1364733504
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -9716,11 +7913,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1947068527}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &1378770390 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1576779425}
   m_PrefabAsset: {fileID: 0}
 --- !u!4 &1386636336 stripped
 Transform:
@@ -10151,67 +8343,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 413678505}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1419848269
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.190844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 25.1859
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (32)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &1426999320
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10273,11 +8404,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1445385506 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 947935874}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1455820945
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10607,11 +8733,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75af83269130d2c4cae50b876f8f46e5, type: 3}
---- !u!4 &1509512471 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 967357680}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1514678579
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10681,11 +8802,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f7df9fff59178814fbfa09513e092d91, type: 3}
---- !u!4 &1517058166 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 570823244}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1519969718
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -10755,11 +8871,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9160d8c8aa651f4bb529af79d3df5b3, type: 3}
---- !u!4 &1538950504 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1051206499}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1552783489
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11016,67 +9127,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &1576779425
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.570845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 22.575901
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (13)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &1586139011
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11150,11 +9200,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1752bd8d3db82e84596a6ffe10fe4b66, type: 3}
---- !u!4 &1593754406 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 2053167282}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1600628394
 GameObject:
   m_ObjectHideFlags: 0
@@ -11454,8 +9499,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1619443644}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -26.07, y: -18.6959, z: 43.27}
+  m_LocalRotation: {x: 0, y: -0.7071068, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: -76.13563, y: -18.6959, z: -30.31}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -11494,7 +9539,7 @@ Transform:
   - {fileID: 1627836640}
   - {fileID: 2137653309}
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1001 &1620151325
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11656,11 +9701,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1147286818}
   m_PrefabAsset: {fileID: 0}
---- !u!4 &1641128648 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 34079777}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1641568591
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11730,11 +9770,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f93dd837a4f7a54bb95d10ec4233866, type: 3}
---- !u!4 &1657218732 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1419848269}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1680822769
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -11930,11 +9965,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3fa438ca35fecfb4185d1e1a79c06df5, type: 3}
---- !u!4 &1702459717 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 2074954153}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1705008000 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -12079,67 +10109,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 1330107949}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &1735689658
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.490845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.825901
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &1744462445 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -13272,11 +11241,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1882963952 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 715448111}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1890126375
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13877,11 +11841,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!4 &1972503656 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 1735689658}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1981259774
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -13951,72 +11910,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a10c6a38a5988d946909e1b71756d65f, type: 3}
---- !u!4 &1987670449 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 5574564}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1988458748
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 8.490845
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 20.1759
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!4 &2001687517 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -14365,189 +12258,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a10c6a38a5988d946909e1b71756d65f, type: 3}
---- !u!1001 &2053167282
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 13.760844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 24.1359
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (27)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &2068988689
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 12.240843
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 26.6159
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (31)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
---- !u!1001 &2074954153
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 1322983381}
-    m_Modifications:
-    - target: {fileID: 836621980104387101, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Constraints
-      value: 122
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 15.310844
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 19.3259
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -61.15963
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: -0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8226471388347323846, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-      propertyPath: m_Name
-      value: PokerChip_Black (19)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
 --- !u!1001 &2087352364
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14613,11 +12323,6 @@ PrefabInstance:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 929015060}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &2092341294 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 119378023}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2093367579
 PrefabInstance:
@@ -15013,11 +12718,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cb364f804680dc643b0092fa34e215cd, type: 3}
---- !u!4 &2137106620 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 323177216}
-  m_PrefabAsset: {fileID: 0}
 --- !u!4 &2137653309 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
@@ -15027,11 +12727,6 @@ Transform:
 Transform:
   m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
   m_PrefabInstance: {fileID: 393677792}
-  m_PrefabAsset: {fileID: 0}
---- !u!4 &2146430976 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 4846016305593686169, guid: 30a31b109a31e8e4da08be3bbab55566, type: 3}
-  m_PrefabInstance: {fileID: 862559607}
   m_PrefabAsset: {fileID: 0}
 --- !u!23 &106350887437622300
 MeshRenderer:
@@ -15369,7 +13064,6 @@ SceneRoots:
   - {fileID: 155551725}
   - {fileID: 1619443645}
   - {fileID: 853970653}
-  - {fileID: 1322983381}
   - {fileID: 932668931}
   - {fileID: 767483117}
   - {fileID: 806056076}
