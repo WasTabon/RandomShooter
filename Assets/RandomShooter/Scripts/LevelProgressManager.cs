@@ -22,6 +22,12 @@ namespace RandomShooter.Scripts
         private int _dicesCount;
         private int _chipsCount;
 
+        private bool _wasWin;
+
+        private bool _isStar1;
+        private bool _isStar2;
+        private bool _isStar3;
+
         private DiceShoot _diceShoot;
 
         private void Start()
@@ -29,12 +35,12 @@ namespace RandomShooter.Scripts
             _chips = GameObject.FindObjectsOfType<Chip>();
             foreach (Chip chip in _chips)
             {
-                chip.OnExplode += AddDiceCount;
+                chip.OnExplode += AddChipCount;
             }
 
             _diceShoot = GameObject.FindObjectOfType<DiceShoot>();
             _diceShoot.OnShoot += AddDiceCount;
-            
+
             _star1.alpha = 0f;
             _star2.alpha = 0f;
             _star3.alpha = 0f;
@@ -52,8 +58,35 @@ namespace RandomShooter.Scripts
         private void AddChipCount()
         {
             _chipsCount++;
-            if (_chipsCount >= _chips.Length)
+
+            Debug.Log(_dicesCount <= _threeStarsCount);
+            Debug.Log(_dicesCount > _oneStarCount);
+            Debug.Log(_dicesCount >= _twoStarsCount && _dicesCount <= _threeStarsCount);
+            
+            if (_chipsCount >= _chips.Length && !_wasWin)
             {
+                _wasWin = true;
+                if (_dicesCount <= _threeStarsCount)
+                {
+                    StarsManager.Instance.AddStarsCount(3);
+                    _isStar3 = true;
+                    _isStar2 = true;
+                    _isStar1 = true;
+                }
+                else if (_dicesCount > _oneStarCount)
+                {
+                    StarsManager.Instance.AddStarsCount(1);
+                    _isStar1 = true;
+                }
+                else if (_dicesCount >= _twoStarsCount && _dicesCount <= _threeStarsCount)
+                {
+                    StarsManager.Instance.AddStarsCount(2);
+                    _isStar2 = true;
+                    _isStar1 = true;
+                }
+
+                Debug.Log("PanelActive");
+
                 _winPanel.SetActive(true);
                 StartCoroutine(ShowStars());
             }
@@ -61,13 +94,22 @@ namespace RandomShooter.Scripts
 
         private IEnumerator ShowStars()
         {
-            yield return FadeIn(_star1);
-            yield return new WaitForSeconds(0.1f);
+            if (_star1)
+            {
+                yield return FadeIn(_star1);
+                yield return new WaitForSeconds(0.1f);
+            }
 
-            yield return FadeIn(_star2);
-            yield return new WaitForSeconds(0.1f);
+            if (_star2)
+            {
+                yield return FadeIn(_star2);
+                yield return new WaitForSeconds(0.1f);
+            }
 
-            yield return FadeIn(_star3);
+            if (_star3)
+            {
+                yield return FadeIn(_star3);
+            }
         }
 
         private IEnumerator FadeIn(CanvasGroup cg)
