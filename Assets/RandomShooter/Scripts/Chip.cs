@@ -1,3 +1,4 @@
+using System;
 using System.Collections;
 using UnityEngine;
 
@@ -5,6 +6,8 @@ namespace RandomShooter.Scripts
 {
     public class Chip : MonoBehaviour
     {
+        public event Action OnExplode;
+        
         [SerializeField] private float _fadeDuration = 2f;
         [SerializeField] private Renderer _customRenderer;
         [SerializeField] private Material _customMaterial;
@@ -17,8 +20,7 @@ namespace RandomShooter.Scripts
         private void Awake()
         {
         }
-
-        [ContextMenu("Explode")]
+        
         public void Explode()
         {
             if (_isExploding) return;
@@ -29,22 +31,21 @@ namespace RandomShooter.Scripts
             _instanceMaterial = new Material(_customMaterial);
             _customRenderer.material = _instanceMaterial;
             
+            OnExplode?.Invoke();
+            
             StartCoroutine(FadeOutAndDisable());
         }
 
         private IEnumerator FadeOutAndDisable()
         {
-            // Задаём начальный цвет — жёлтый с альфой 1
             Color startColor = Color.yellow;
             startColor.a = 1f;
 
-            // Конечный цвет — жёлтый с альфой 0
             Color endColor = startColor;
             endColor.a = 0f;
 
             float elapsed = 0f;
 
-            // Устанавливаем режим прозрачности (на случай если забыли в инспекторе)
             if (_instanceMaterial.HasProperty("_Mode"))
             {
                 _instanceMaterial.SetFloat("_Mode", 3); // Transparent
@@ -65,7 +66,6 @@ namespace RandomShooter.Scripts
                 yield return null;
             }
 
-            // Прозрачный цвет и деактивация
             _instanceMaterial.color = endColor;
             gameObject.SetActive(false);
         }
