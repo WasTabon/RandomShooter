@@ -1,11 +1,13 @@
 using TMPro;
 using UnityEngine;
+using UnityEngine.Purchasing;
 
 public class GemsManager : MonoBehaviour
 {
     public static GemsManager Instance { get; private set; }
 
     [SerializeField] private TextMeshProUGUI _gemsCountText;
+    [SerializeField] private TextMeshProUGUI _buttonText;
 
     public int _gemsCount;
 
@@ -38,8 +40,25 @@ public class GemsManager : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    public void OnPurchaseComlete(Product product)
+    {
+        if (product.definition.id == "10coinsID")
+        {
+            Add(10);
+        }
+    }
+
     private void Update()
     {
         _gemsCountText.text = _gemsCount.ToString();
+    }
+    
+    public void OnProductFetched(Product product)
+    {
+       #if UNITY_EDITOR
+           _buttonText.text = "$1.99";
+       #else
+           _buttonText.text = product.metadata.localizedPriceString;
+       #endif
     }
 }
