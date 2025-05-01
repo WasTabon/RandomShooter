@@ -42,7 +42,7 @@ public class GemsManager : MonoBehaviour
 
     public void OnPurchaseComlete(Product product)
     {
-        if (product.definition.id == "10coinsID")
+        if (product.definition.id == "com.coidea.forestMatch.full")
         {
             Add(10);
         }
