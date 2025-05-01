@@ -55,10 +55,6 @@ public class GemsManager : MonoBehaviour
     
     public void OnProductFetched(Product product)
     {
-       #if UNITY_EDITOR
-           _buttonText.text = "$1.99";
-       #else
-           _buttonText.text = product.metadata.localizedPriceString;
-       #endif
+       _buttonText.text = product.metadata.localizedPriceString;
     }
 }
